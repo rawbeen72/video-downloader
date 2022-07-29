@@ -5,7 +5,7 @@ import sys
 import time
 from PyQt5.QtWidgets import QDialog, QApplication
 import pyperclip
-from demo_fb import *
+from downloaderUI import *
 from selenium.webdriver.common.action_chains import ActionChains
 import requests
 from selenium import webdriver
